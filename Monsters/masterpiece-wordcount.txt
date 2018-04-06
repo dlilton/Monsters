@@ -1,0 +1,13 @@
+  28761 42.txt
+  28761 backup-42.txt
+  78097 backup-84.txt
+    521 backup-horror12.txt
+    315 backup-vampire.txt
+     91 backup-z.txt
+    412 dracula synopsis .txt
+  78097 frankenstein.txt
+    521 horror12.txt
+    576 sparkly vamps.txt
+    315 vampire.txt
+     91 z.txt
+ 216558 total
